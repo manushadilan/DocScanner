@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- paper with folded corner -->
+    <path android:fillColor="#FFFFFF" android:pathData="M42,40H60L68,48V70H42Z" />
+    <path android:fillColor="#BBDEFB" android:pathData="M60,40V48H68Z" />
+    <path android:strokeColor="#90A4AE" android:strokeWidth="2" android:strokeLineCap="round"
+        android:pathData="M47,54H63M47,64H63" />
+    <!-- viewfinder brackets -->
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="3" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M30,42V32H40M78,42V32H68M30,66V76H40M78,66V76H68" />
+    <!-- scan line -->
+    <path android:strokeColor="#00E5FF" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M36,59H72" />
+</vector>
