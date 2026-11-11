@@ -1,6 +1,6 @@
 # DocScanner
 
-![Android CI](https://github.com/manushadilan/DocScanner/actions/workflows/android.yml/badge.svg)
+![Android CI](https://github.com/manushadilan/DocScanner/actions/workflows/gradle-publish.yml/badge.svg)
 
 A CamScanner-style document scanner for Android, built with Kotlin and Jetpack Compose. Point the camera at a page and it detects the edges, flattens the perspective, cleans up the image and saves it, all on-device with no account or network needed. Export multi-page PDFs when you're done.
 
